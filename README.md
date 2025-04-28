@@ -17,4 +17,5 @@ DISCLAIMER:
 IF YOU MANAGE TO USE THIS SYSTEM:
 - Change ALL THE PATHS to the right one!
 - Change ALL THE GIVEN LINKS to yours!
+- IT ONLY WORKS WITH ITEMS! Dont try it with any kind of armor or block, because it will make your game's textures go wild for sure
 - Thats all i guess, hit me up if you need any kind of help with it!
