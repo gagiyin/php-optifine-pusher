@@ -13,4 +13,8 @@ As I said before, its a bit complicated, but it works great, and operates fully.
 
 Right now if you want to use the system, you have to copy-paste my code and make it work with your surroundings, sry for that, it's made for my Admins only.
 
-
+DISCLAIMER:
+IF YOU MANAGE TO USE THIS SYSTEM:
+- Change ALL THE PATHS to the right one!
+- Change ALL THE GIVEN LINKS to yours!
+- Thats all i guess, hit me up if you need any kind of help with it!
